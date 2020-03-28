@@ -1,0 +1,181 @@
+body{
+	font-family: 'Sen', sans-serif;
+}
+
+a:focus {
+	outline: none;
+}
+
+button:focus {
+	outline: none;
+}
+
+h4{
+	color:rgb(244,212,69);
+}
+
+#page-container{
+	position: relative;
+	min-height: 100vh;
+}
+
+#content-wrap{
+	padding-bottom: 2.5rem;
+}
+
+.navbar.navbar-expand-lg.navbar-light {
+	background-color: rgb(244,212,69);
+}
+
+#nav-item:active{
+	outline:0;
+	border:none;
+}
+
+#nav-link:active{
+	outline:0;
+	border:none;
+}
+
+.dropdown-item:hover{
+	background-color: rgb(23,29,34);
+	color:rgb(244,212,69)
+}
+
+.head{
+	text-align: center;
+	background-color: white;
+	padding: 0%;
+	margin-bottom: 0px;
+}
+
+#profile-container {
+	margin: 0px 0px 500px 0px;
+}
+
+.profile-desc {
+	float: left;
+	width: 35%;
+	margin: 5% 5%;
+	text-align: center;
+	overflow: auto;
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+}
+
+.nametag{
+	color:black;
+	background-color:white;
+	width: 219px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.nametag:hover{
+	color:white;
+	background-color:rgb(244,212,69);
+}
+
+#profileM {
+	height: 230px;
+	width: 219px;
+}
+
+#profileF {
+	height: 230px;
+	width: 219px;
+}
+
+@media(min-width: 1800px) {
+	.profile-desc {
+		display:flex;
+		flex-direction: column;
+		justify-content: center;
+		align-content: center;
+		align-items: center;
+
+	}
+
+	#profileM {
+		height: 300px;
+		width: auto;
+		padding-left: 10%;
+		padding-right: 10%;
+	}
+
+	#profileF {
+		height: 300px;
+		width: auto;
+		padding-left: 10%;
+		padding-right: 10%;
+	}
+}
+
+@media(min-width: 1250px) {
+	#profileM {
+		height: 400px;
+		width: auto;
+	}
+
+	#profileF {
+		height: 400px;
+		width: auto;
+	}
+
+}
+
+@media(max-width: 650px) {
+	.profile-desc {
+		width: 75%;
+		margin: 0;
+	}
+
+	#profile-one{
+		padding-top: 50px;
+		padding-left: 5%;
+	}
+
+	#profile-two{
+		padding-top: 50px;
+		padding-right: 5%;
+	}
+
+	.modal-footer{
+		display: flex;
+		justify-content: center;
+	}
+}
+
+#profileM:hover{
+	transition: .5s;
+	transform: scaleX(1.05);
+}
+
+#profileF:hover{
+	transition: .5s;
+	transform: scaleX(1.05);
+}
+
+#footer{
+	background-color: rgb(23,29,34);
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	color: rgb(244,212,69);
+	text-align: center;
+	display:flex;
+	justify-content: center;
+	flex-direction: row;
+	align-items: center;
+}
+
+.foot-img{
+	width: 100px;
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+}

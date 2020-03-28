@@ -1,0 +1,124 @@
+body{
+	font-family: 'Sen', sans-serif;
+}
+
+a:focus {
+	outline: none;
+}
+
+button:focus {
+	outline: none;
+}
+
+h1{
+	text-align: center;
+	padding: 40px;
+	margin:0px;
+}
+
+#page-container{
+	position: relative;
+	min-height: 100vh;
+}
+
+#content-wrap{
+	width:100%;
+	margin-bottom: 150px;
+	position: relative;
+}
+
+.navbar.navbar-expand-lg.navbar-light {
+	background-color: rgb(244,212,69);
+}
+
+#header{
+	/* keep - id needed for script */
+}
+
+.sticky {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.sticky + #content-wrap {
+}
+
+.dropdown-item{
+	color: rgb(23,29,34);
+}
+
+.dropdown-item:hover{
+	background-color: rgb(23,29,34);
+	color:rgb(244,212,69)
+}
+
+#form{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	height: 10%;
+	width: 80%;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	margin: 0px 10%;
+	justify-content: center;
+	background-color: white;
+}
+
+.form-item{
+	color: rgb(244,212,69);
+	font-size: 20px;
+	text-align: center;
+	padding: 10px 10px 15px 10px;
+}
+
+.box{
+	width: 50%;
+}
+
+#buttons{
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	justify-content: space-between;
+	justify-content: space-around;
+}
+
+.mail-btn{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: fixed;
+	float:left;
+}
+
+.btn.btn-dark.btn-lg.custom{
+	color:rgb(244,212,69);
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+#footer{
+	background-color: rgb(23,29,34);
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	color: rgb(244,212,69);
+	text-align: center;
+	justify-content: center;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+}
+
+.foot-img{
+	width: 100px;
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+}
