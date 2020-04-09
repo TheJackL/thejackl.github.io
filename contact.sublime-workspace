@@ -1,0 +1,1124 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"felx",
+				"flex-direction\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"ab",
+				"about_nick"
+			],
+			[
+				"name",
+				"nametag"
+			],
+			[
+				"about_",
+				"about_nick"
+			],
+			[
+				"space",
+				"space-around\tjustify-content"
+			],
+			[
+				"decora",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"about",
+				"about_nick"
+			],
+			[
+				"pr",
+				"profile-one"
+			],
+			[
+				"bacgrou",
+				"background-color\tproperty"
+			],
+			[
+				"prof",
+				"profileM"
+			],
+			[
+				"d",
+				"dropdown-item"
+			],
+			[
+				"a",
+				"auto\tpadding"
+			],
+			[
+				"di",
+				"flex-direction\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"poi",
+				"position\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"f",
+				"flex-start\tjustify-content"
+			],
+			[
+				"fl",
+				"flex-end\tjustify-content"
+			],
+			[
+				"spac",
+				"space-between\tjustify-content"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"fe",
+				"flex-direction\tproperty"
+			],
+			[
+				"fel",
+				"flex-wrap\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"content",
+				"justify-content\tproperty"
+			],
+			[
+				"sub",
+				"Subject"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"s",
+				"scaleY()\ttransform"
+			],
+			[
+				"in",
+				"initial\ttransition"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"foi",
+				"font-weight\tproperty"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"moo",
+				"moobackup"
+			],
+			[
+				"one",
+				"one_identifier"
+			],
+			[
+				"thre",
+				"three_identifier"
+			],
+			[
+				"tw",
+				"two_identifier"
+			],
+			[
+				"th",
+				"three"
+			],
+			[
+				"chosen",
+				"chosenOption"
+			],
+			[
+				"chos",
+				"chosenOption"
+			],
+			[
+				"build",
+				"build_exe_options"
+			],
+			[
+				"g",
+				"gender"
+			],
+			[
+				"hunger",
+				"hunger_counter"
+			],
+			[
+				"scent",
+				"scent_rabbit"
+			],
+			[
+				"wh",
+				"WHITE"
+			],
+			[
+				"goal",
+				"goal_xy"
+			],
+			[
+				"pa",
+				"paddleX"
+			],
+			[
+				"bal",
+				"ballRadius"
+			],
+			[
+				"paddl",
+				"paddleHeight"
+			],
+			[
+				"p",
+				"paddleX"
+			],
+			[
+				"draw",
+				"drawBall"
+			],
+			[
+				"line",
+				"linenumber-1"
+			],
+			[
+				"no",
+				"notification"
+			],
+			[
+				"notifi",
+				"notification"
+			],
+			[
+				"note",
+				"note_timer"
+			],
+			[
+				"sho",
+				"showTime"
+			],
+			[
+				"la",
+				"laptopMessage"
+			],
+			[
+				"hover",
+				"hover_t1"
+			],
+			[
+				"Sprite",
+				"sprite"
+			],
+			[
+				"tower",
+				"Tower_1"
+			],
+			[
+				"time",
+				"time_segment"
+			],
+			[
+				"sta",
+				"startTime"
+			],
+			[
+				"ready",
+				"readyGo"
+			],
+			[
+				"HEI",
+				"HEIGHT"
+			],
+			[
+				"HE",
+				"HEIGHT"
+			],
+			[
+				"HEIGHT",
+				"HEIGHT-380"
+			],
+			[
+				"view",
+				"view_type"
+			],
+			[
+				"get",
+				"get_rect"
+			],
+			[
+				"play",
+				"player"
+			],
+			[
+				"pre",
+				"previousMove"
+			],
+			[
+				"re",
+				"restriction"
+			],
+			[
+				"track",
+				"track_timers"
+			],
+			[
+				"rest",
+				"restriction_timer"
+			],
+			[
+				"restrict",
+				"restriction_home"
+			],
+			[
+				"restri",
+				"restriction_home"
+			],
+			[
+				"h",
+				"health"
+			],
+			[
+				"fi",
+				"fightmenu_basic_choice"
+			],
+			[
+				"mana",
+				"manamax"
+			],
+			[
+				"hea",
+				"healthmax"
+			],
+			[
+				"batt",
+				"battle_result"
+			],
+			[
+				"r",
+				"randint"
+			],
+			[
+				"Bla",
+				"BLACK"
+			],
+			[
+				"t",
+				"top_score"
+			],
+			[
+				"top",
+				"top_scorer"
+			],
+			[
+				"pie",
+				"piece_active"
+			],
+			[
+				"demo",
+				"demolish_active"
+			],
+			[
+				"map",
+				"map_layout"
+			],
+			[
+				"piec",
+				"piece"
+			],
+			[
+				"acti",
+				"active_number"
+			],
+			[
+				"ac",
+				"active_number"
+			],
+			[
+				"piece",
+				"piece4"
+			],
+			[
+				"active",
+				"piece_active"
+			],
+			[
+				"pi",
+				"piece_active"
+			],
+			[
+				"C",
+				"CROSS"
+			],
+			[
+				"H",
+				"HORIZONTAL"
+			],
+			[
+				"B",
+				"BLANK"
+			],
+			[
+				"tiles",
+				"TILES"
+			],
+			[
+				"Pipes",
+				"PIPES"
+			],
+			[
+				"dis",
+				"distance_x"
+			],
+			[
+				"distance",
+				"distance_x"
+			],
+			[
+				"cet",
+				"centerx"
+			],
+			[
+				"to",
+				"tower_distx"
+			],
+			[
+				"towe",
+				"tower_distx"
+			],
+			[
+				"pos",
+				"posx"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"toe",
+				"tower_disty"
+			],
+			[
+				"ty",
+				"type_int-1"
+			],
+			[
+				"type_",
+				"type_int-1"
+			],
+			[
+				"type",
+				"type_int"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/index.html",
+			"settings":
+			{
+				"buffer_size": 3498,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/index.css",
+			"settings":
+			{
+				"buffer_size": 1219,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/portfolio.html",
+			"settings":
+			{
+				"buffer_size": 2790,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/portfolio.css",
+			"settings":
+			{
+				"buffer_size": 790,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/about.html",
+			"settings":
+			{
+				"buffer_size": 9579,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/about.css",
+			"settings":
+			{
+				"buffer_size": 2405,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/contact.html",
+			"settings":
+			{
+				"buffer_size": 4897,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/contact.css",
+			"settings":
+			{
+				"buffer_size": 1712,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"window.run_command(\"exec\", {\"cmd\": [\"c:\\\\\"]})",
+			"window.run_command(\"exec\", {\"shell_cmd\": \"c:\\\\\"})"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/animation/about.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/animation/index.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/animation/robot.css",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/animation/robot.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/animation/style.css",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/links.html",
+		"/C/Users/Chris/Documents/GitHub/thejackl.github.io/index.html",
+		"/C/Users/Chris/Documents/GitHub/thejackl.github.io/portfolio.css",
+		"/C/Users/Chris/Documents/GitHub/thejackl.github.io/index.css",
+		"/C/Users/Chris/Documents/GitHub/thejackl.github.io/portfolio.html",
+		"/C/Users/Chris/Documents/GitHub/thejackl.github.io/contact.html",
+		"/C/Users/Chris/Documents/GitHub/thejackl.github.io/about.html",
+		"/C/Users/Chris/Documents/GitHub/thejackl.github.io/about.css",
+		"/C/Users/Chris/Documents/GitHub/thejackl.github.io/contact.css",
+		"/C/Users/Chris/Documents/GitHub/thejackl.github.io/contact.sublime-workspace",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/register.html",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/contact.css",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/contact.html",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/MyTFT/index.css",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/MyTFT/myTFT.html",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/about.css",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/index.html",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/index.css",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/portfolio.html",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/about.html",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/portfolio.css",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/about-original.css",
+		"/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/about-original.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/boot.css",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/boot.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/flexbox.css",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/flexbox.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/index.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/robot.css",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/style.css",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/robot.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/Flexbox.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/newpage.html",
+		"/C/Users/Chris/Documents/MVA/word count.py",
+		"/C/Users/Chris/Documents/MVA/Maps/curved length calculator",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/waitbutwhysource.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/testing 2.html",
+		"/C/Users/Chris/Documents/Code_stuff/Fullstack Course/testing.html",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Unwritten Epic/texts.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/ReadyGo/ReadyGo_script_1.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Unwritten Epic/Unwritten_Epic.py",
+		"/C/Users/Chris/Documents/Electronic Arts/The Sims 4/Mods/Eternal Youth and Immortal.package",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/ReadyGo/setup.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Onwards to the Past/OTtP Code.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Onwards to the Past/names.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Onwards to the Past/setup.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Yeti.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/PortalInvaders/PortalInvaders_backup",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Accumulate/Camelot.py",
+		"/C/Users/Chris/Documents/Code_stuff/python_science_engineering/PyEng-master/machine/calc_correlation.py",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/python 3.7.sublime-build",
+		"/C/Users/Chris/Documents/Code_stuff/xwm conversion.py",
+		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Onwards to the Past/OTTP Backup.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Onwards to the Past/OttP.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Onwards to the Past/myname = 'bob'",
+		"/C/Users/Chris/AppData/Local/Temp/Temp1_Onwards to the Past-1.0.win32.zip/Python34/Lib/site-packages/Onwards_to_the_Past-1.0-py3.4.egg-info",
+		"/C/Users/Chris/Documents/Code_stuff/JS/learning_projects/Simple Pong.js",
+		"/C/Program Files (x86)/Steam/steamapps/common/Tale of Toast/ToT_Data/level20",
+		"/C/Games/Nexus Mod Manager/Oblivion/Mods/Atronach Birthsign Remade-16089/AtronachBS Remade/Atronach Birthsign Remade.esp",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/tower_defense/TDCode.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Lighthouse/Lighthouse.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/tower_defense/code.rtf",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/tower_defense/code_checkpoint.rtf",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/ReadyGo/ReadyGo_script.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/myFunctions.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/savedemo/savedemoscript.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Pipes/Pipes.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/blueprints/blueprint_viewer.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/save demo/savedemo script.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Accumulate/mysql connector.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Tetris/Tetris_Py_TestCode",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/savedemo/savedemo script.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/SteelKingdom/SKCode.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/PortalInvaders/backupcopy.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Tetris/Tetris_Py_Code",
+		"/C/Users/Chris/Documents/Code_stuff/get_IP.py",
+		"/C/Users/Chris/Documents/groupProject/gpCode.py",
+		"/C/Users/Chris/Documents/Code_stuff/PHP/website/index (1).html",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/savetest/savetestscript.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/DefaultScript.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/TD/towerdefensecode.py",
+		"/C/Users/Chris/Documents/Code_stuff/PHP/Tutorials/forms/config.php",
+		"/C/Users/Chris/Documents/Code_stuff/PHP/phpMyAdmin-4.8.0.1-all-languages/setup/config.php",
+		"/C/Users/Chris/Documents/Code_stuff/PHP/website/index (1) - Copy.html",
+		"/C/Users/Chris/Documents/Code_stuff/PHP/phpMyAdmin-4.8.0.1-all-languages/setup/index.php",
+		"/C/Users/Chris/Documents/Code_stuff/PHP/phpMyAdmin-4.8.0.1-all-languages/setup/validate.php",
+		"/C/Users/Chris/Documents/Code_stuff/PHP/phpMyAdmin-4.8.0.1-all-languages/setup/scripts.js",
+		"/C/Users/Chris/Documents/Code_stuff/PHP/phpMyAdmin-4.8.0.1-all-languages/package.json",
+		"/C/Users/Chris/Documents/Code_stuff/PHP/Tutorials/config.php",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/encryptionFiles/encryption",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/SS2CalcVis/sscGUIExtended.py",
+		"/C/Users/Chris/Documents/Code_stuff/Sacred Seasons Calc Visual.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/SteelKingdom/SKCode",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/PoTKBattle/PoTKBattle Code.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/tower_defense/notes.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/Onwards to the Past/OTtP.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/encryptionFiles/encryption_script",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/encryptionFiles/decrypted_file.rtf",
+		"/C/Python34/Lib/site-packages/SS2_Calculator_GUI-1.0-py3.4.egg-info",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/encryption_script.rtf",
+		"/C/Users/Chris/Documents/Code_stuff/encryption",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/SS2CalcVis/Sacred Seasons Calc Visual.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/PoTKBattle/bev.py",
+		"/C/Users/Chris/Desktop/SS2.swf",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/tower_defense/maps.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/tower_defense/database.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/tower_defense/Input.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/tower_defense/TDCodeCheckpoint.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/pongGame/pongCode.py",
+		"/C/Users/Chris/Documents/Code_stuff/temp",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/pongGame/distributable/pongCode.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/pongGame/extras/setup.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/pongGame/distributable/setup.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/pongGame/__pycache__/pongCode.cpython-34.pyc",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/pongGame/pythonFile.py",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/pongGame/PongNotes",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/pongGame/setup.py",
+		"/C/Users/Chris/Downloads/Virtual_villagers.exe",
+		"/C/Users/Chris/Documents/Code_stuff/reverse string",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/PortalInvaders/Bandit = [55,40,30,80,75,3]",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/12.JPG",
+		"/C/Users/Chris/Documents/Code_stuff/pygames/PortalInvaders/PI"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"profile-container",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1989,
+								1989
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								890,
+								890
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1070.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/portfolio.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1043,
+								1043
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/portfolio.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 403.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7727,
+								7727
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3891.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/about.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1190,
+								1190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1691.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4393,
+								4393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2760.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Chris/Documents/Code_stuff/Websites/CitricHaus/contact.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1211,
+								1211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1863.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python 3.7.sublime-build",
+	"project": "contact.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Chris\\Documents\\Code_stuff\\Sacred Seasons Calc Visual.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

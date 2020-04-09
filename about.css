@@ -14,9 +14,17 @@ h4{
 	color:rgb(244,212,69);
 }
 
+#header{
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+
 #page-container{
 	position: relative;
 	min-height: 100vh;
+	height: 100%;
 }
 
 #content-wrap{
@@ -51,6 +59,7 @@ h4{
 
 #profile-container {
 	margin: 0px 0px 500px 0px;
+	background-color: red;
 }
 
 .profile-desc {
@@ -160,18 +169,20 @@ h4{
 }
 
 #footer{
-	background-color: rgb(23,29,34);
-	left: 0;
+	height:100px;
 	bottom: 0;
+	left: 0;
 	width: 100%;
-	height: 100px;
+	background-color: rgb(23,29,34);
 	color: rgb(244,212,69);
 	text-align: center;
-	display:flex;
 	justify-content: center;
+	display:flex;
 	flex-direction: row;
+	flex-wrap: wrap;
 	align-items: center;
 }
+
 
 .foot-img{
 	width: 100px;
